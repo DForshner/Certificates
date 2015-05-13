@@ -1,2 +1,2 @@
 # Certificates
-Certificates from various courses
+Certificates & Statement of Accomplishment from various courses
