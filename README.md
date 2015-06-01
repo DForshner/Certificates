@@ -1,5 +1,5 @@
 # Certificates
-Certificates & Statement of Accomplishment from various courses
+Certificates & Statement of Accomplishment from courses I've done.
 
 #### Courses
 * [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2)
